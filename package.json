@@ -1,0 +1,27 @@
+{
+  "name": "ika",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisquid/discord-squid-bot.git"
+  },
+  "keywords": [],
+  "author": "luisquid <luisquid.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisquid/discord-squid-bot/issues"
+  },
+  "homepage": "https://github.com/luisquid/discord-squid-bot#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^12.4.0",
+    "dotenv": "^8.2.0",
+    "dotenv-flow": "^3.2.0",
+    "enmap": "^5.8.2",
+    "node-fetch": "^2.6.1"
+  }
+}
